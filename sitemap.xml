@@ -1,39 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://melbetpartners.partners/</loc>
-        <lastmod>2025-01-31</lastmod>
+        <loc>https://wowbett.net/</loc>
+        <lastmod>2026-03-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://melbetpartners.partners/index.html</loc>
-        <lastmod>2025-01-31</lastmod>
+        <loc>https://wowbett.net/download-app.html</loc>
+        <lastmod>2026-03-30</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://melbetpartners.partners/terms.html</loc>
-        <lastmod>2025-01-31</lastmod>
+        <loc>https://wowbett.net/wowbet-app-download.html</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wowbett.net/wowbet-promo-code.html</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wowbett.net/wowbet-cricket-betting.html</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wowbett.net/wowbet-bkash-deposit.html</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wowbett.net/wowbet-live-casino.html</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wowbett.net/wowbet-review.html</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wowbett.net/terms.html</loc>
+        <lastmod>2026-03-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://melbetpartners.partners/privacy.html</loc>
-        <lastmod>2025-01-31</lastmod>
+        <loc>https://wowbett.net/privacy.html</loc>
+        <lastmod>2026-03-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://melbetpartners.partners/cookies.html</loc>
-        <lastmod>2025-01-31</lastmod>
+        <loc>https://wowbett.net/cookies.html</loc>
+        <lastmod>2026-03-30</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
+        <priority>0.4</priority>
     </url>
     <url>
-        <loc>https://melbetpartners.partners/contacts.html</loc>
-        <lastmod>2025-01-31</lastmod>
+        <loc>https://wowbett.net/contacts.html</loc>
+        <lastmod>2026-03-30</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.5</priority>
     </url>
 </urlset>

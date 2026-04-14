@@ -1,18 +1,11 @@
-# Robots.txt for Melbet Partners
-# https://melbetpartners.partners
-
 User-agent: *
 Allow: /
 
-# Allow all pages
-Allow: /index.html
-Allow: /terms.html
-Allow: /privacy.html
-Allow: /cookies.html
-Allow: /contacts.html
+Sitemap: https://wowbett.net/sitemap.xml
 
-# Allow images
-Allow: /images/
+User-agent: Googlebot
+Allow: /
 
-# Sitemap location
-Sitemap: https://melbetpartners.partners/sitemap.xml
+User-agent: Bingbot
+Allow: /
+
